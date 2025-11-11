@@ -1,6 +1,6 @@
 ### Hey Guys 👋
 
-<img align="right" alt="img" src="Recording 2025-11-11 222401.gif" width="45%" height="auto" />
+<img align="right" alt="img" src="kirby.gif" width="45%" height="auto" />
 
 ## This is Shrie Varshini!!!
 
