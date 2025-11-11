@@ -14,7 +14,7 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 
 ## What I do ✨
 - I explore a lot and right now I am obsessed with learning how to 3D model 
-- I blog at times on [The Medium.com] (https://medium.com/@shrievarshini.offl)
+- I blog at times on [The Medium.com](https://medium.com/@shrievarshini.offl)
 - I work on any project that looks fun
 - So far I have explored projects in Computer Vision, Machine Leearning and Frontend Dev domains
 
