@@ -8,4 +8,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/ShrieVarshini2004/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&layout=donut&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
