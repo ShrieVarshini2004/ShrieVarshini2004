@@ -4,13 +4,12 @@
 
 ## This is Shrie Varshini!!!
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/shrie-varshini/))
+
+[![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrieVarshini2004&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
 
 
 
 Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University in India
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&layout=donut&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
 
 ## What I do ✨
 - I explore a lot and right now I am obsessed with learning how to 3D model 
@@ -18,5 +17,8 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 - I work on any project that looks fun
 - So far I have explored projects in Computer Vision, Machine Leearning and Frontend Dev domains
 
-[![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrieVarshini2004&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&layout=donut&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/shrie-varshini/))
