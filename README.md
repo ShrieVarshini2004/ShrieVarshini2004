@@ -1,12 +1,11 @@
 ### Hey Guys 👋
 
-<img align="right" alt="img" src="kirby.gif" width="45%" height="auto" />
+<img align="right" alt="img" src="kirby.gif" width="40%" height="auto" />
 
 ## This is Shrie Varshini!!!
 
 
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrieVarshini2004&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
-
 
 
 Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University in India
