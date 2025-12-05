@@ -81,30 +81,7 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 *✨ Check out my latest thoughts and tutorials on [Medium](https://medium.com/@shrievarshini.offl)!*
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShrieVarshini2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&theme=radical&line_height=40&hide=css"/>
-    </a>
-  </div>
-
-<br/>
-
-<div align="center">
-  <a href="">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShrieVarshini2004&theme=radical" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
  
 ---
 
