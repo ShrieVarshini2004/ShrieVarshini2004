@@ -3,15 +3,7 @@
 <img align="right" alt="img" src="kirby.gif" width="40%" height="auto" />
 
 ## This is Shrie Varshini!!!
-
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShrieVarshini2004&show_icons=true&include_all_commits=true&count_private=true&theme=radical&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&theme=radical&line_height=40&hide=css"/>
-    </a>
-  </div>
+>
 
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrieVarshini2004&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
 
