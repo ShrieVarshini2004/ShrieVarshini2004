@@ -18,6 +18,7 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 - ✍️ I write tech blogs on [Medium](https://medium.com/@shrievarshini.offl)
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&layout=donut&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
 
 
@@ -34,13 +35,14 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ShrieVarshini2004&repo=ShrieVarshini2004&countColor=%237B1E7B"/>
 
-### Connect with me 📝
-
-[<img align="left" alt="shrievarshini | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="shrievarshini | Medium" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][medium]
-[<img align="left" alt="shrievarshini | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
-
 <br />
+  
+
+<a href="./Certifications">
+  <img src="https://img.shields.io/badge/📜-View%20Certifications-brightgreen?style=for-the-badge">
+</a>
+
+
 
 ---
 
@@ -65,6 +67,16 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 ![Jupyter](http://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 
 <br/>
+
+--- 
+
+### Connect with me 📝
+
+[<img align="left" alt="shrievarshini | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="shrievarshini | Medium" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][medium]
+[<img align="left" alt="shrievarshini | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
+<br />
 
 ---
 
