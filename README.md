@@ -80,9 +80,18 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 <!-- BLOG-POST-LIST:START -->
 *✨ Check out my latest thoughts and tutorials on [Medium](https://medium.com/@shrievarshini.offl)!*
 <!-- BLOG-POST-LIST:END -->
+---
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+
+[![Rotate Array | GFG | Python](https://ytcards.demolab.com/?id=SUEkOddc_Dw&title=Rotate+Array+|+GFG+|+Python&lang=en&timestamp=1769020200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=115)](https://youtu.be/SUEkOddc_Dw?si=Zg3Y1a8gLMMhymRD)
 
 
- 
+
+P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/SUEkOddc_Dw?si=yZc3tiY5hmrJ7b3j)! 😊
 ---
 
 [linkedin]: https://www.linkedin.com/in/shrie-varshini/
