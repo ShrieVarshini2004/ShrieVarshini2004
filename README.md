@@ -19,10 +19,6 @@ Yo, Welcome ya'll. I am  finishing my engineering degree from Amrita University 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrieVarshini2004&layout=donut&show_icons=true&theme=omni)](https://github.com/ShrieVarshini2004/github-readme-stats)
-
-
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
